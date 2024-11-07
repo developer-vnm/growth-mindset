@@ -25,9 +25,9 @@ To improve readability and traceability, commit messages should be:
 - feat(voucher-promotion): [#123456] implement promotional voucher listing API
 - test(standalone-insurance): [#123467] add insurance creating UT
 - test(credit-card-cir17): [#123489] add fully KYC verification result IT
-- style(voucher-promotion): [#123478] sonar code smell - remove unsued import
+- style(voucher-promotion): [#123478] sonar code smell - remove unused import
 - docs(voucher-promotion): [#123512] promotional voucher listing communication diagram
-- chore(ci): update azure pipelies to support Sonar
+- chore(ci): update azure pipelines to support Sonar
 - chore(application): define environment variables
 
 
