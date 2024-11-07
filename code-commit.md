@@ -31,7 +31,7 @@ To improve readability and traceability, commit messages should be:
 - chore(application): define environment variables
 
 
-## Azue DevOps
+## Azure DevOps
 
 - `<scope>`:  use the name of the primary feature linked to the user story.
     - Hierarchy: `Task (Backend, Frontend, QC)` -> `User Story (Sprint Delivery)` -> `Feature (Team Delivery)` -> `Epic (Project Delivery)`
